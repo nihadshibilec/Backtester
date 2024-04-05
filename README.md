@@ -26,19 +26,16 @@ The project is structured as follows:
 ```bash
 git clone https://github.com/your_username/trading-strategy-backtesting.git
 cd trading-strategy-backtesting
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-To run the backtesting system, execute the Main.py script:
 
-bash
-Copy code
+Install dependencies:
+pip install -r requirements.txt
+
+To run the backtesting system, execute the Main.py script:
 python Main.py
+
 The script will generate backtest reports and forward test results.
 
-Contributing
+**Contributing**
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
@@ -50,10 +47,7 @@ Create a new Pull Request.
 Project Contributors
 Your Name
 Collaborator Name
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-css
-Copy code
-
-Feel free to customize the content further to better fit your project's specifics and 
