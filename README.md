@@ -3,7 +3,7 @@
 ```bash
 git clone https://github.com/your_username/trading-strategy-backtesting.git
 cd trading-strategy-backtesting
-
+```bash
 # Trading Strategy Backtesting System
 
 Welcome to the Trading Strategy Backtesting System! This project implements a backtesting system for trading strategies using Python. It provides modules for data processing, entry strategy execution, exit optimization, and performance analysis.
