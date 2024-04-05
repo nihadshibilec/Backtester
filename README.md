@@ -1,3 +1,8 @@
+Install dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+Usage
 1. Clone the repository:
 
 ```bash
