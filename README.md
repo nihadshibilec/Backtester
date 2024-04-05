@@ -1,14 +1,5 @@
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-1. Clone the repository:
 
-```bash
-git clone https://github.com/your_username/trading-strategy-backtesting.git
-cd trading-strategy-backtesting
-```bash
+
 # Trading Strategy Backtesting System
 
 Welcome to the Trading Strategy Backtesting System! This project implements a backtesting system for trading strategies using Python. It provides modules for data processing, entry strategy execution, exit optimization, and performance analysis.
@@ -56,3 +47,7 @@ Collaborator Name
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+1. Clone the repository:
+```bash
+git clone https://github.com/your_username/trading-strategy-backtesting.git
+cd trading-strategy-backtesting
